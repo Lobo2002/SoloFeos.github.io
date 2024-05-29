@@ -28,7 +28,7 @@ body {
 }
 
 button {
-    background-color: #4CAF50; /* Color de fondo */
+    background-color: #afac4c; /* Color de fondo */
     border: none;
     color: white; /* Color del texto */
     padding: 15px 32px; /* Espacio alrededor del texto */
@@ -39,7 +39,7 @@ button {
     margin: 4px 2px;
     cursor: pointer; /* Cursor al pasar por encima */
     border-radius: 10px; /* Bordes redondeados */
-    border: 2px solid #4CAF50; /* Borde */
+    border: 2px solid #000000; /* Borde */
     transition-duration: 0.4s; /* Duración de la transición */
 }
 
